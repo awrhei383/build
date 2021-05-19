@@ -1,2 +1,4 @@
 steps:
-  command: "wget https://github.com/lallianto/asrih447/raw/main/sel.sh"
+  - name: ":hammer: :linux:"
+    key: test-linux
+    command: ".buildkite/steps/tests.sh"
