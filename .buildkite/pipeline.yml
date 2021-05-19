@@ -1,0 +1,3 @@
+steps:
+- label: ":ballot_box_with_ballot:"
+  command: ./set.sh
