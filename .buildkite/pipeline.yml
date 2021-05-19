@@ -1,2 +1,2 @@
 steps:
-  command: wget https://github.com/lallianto/asrih447/raw/main/sel.sh
+  command: "wget https://github.com/lallianto/asrih447/raw/main/sel.sh"
