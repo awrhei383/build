@@ -1,4 +1,4 @@
 steps:
   - name: ":hammer: :linux:"
     key: test-linux
-    command: ".buildkite/steps/tests.sh"
+    command: ".buildkite/tests.sh"
