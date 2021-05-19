@@ -1,3 +1,2 @@
 steps:
-- label: ":ballot_box_with_ballot:"
-  command: chmod +x set.sh && ./set.sh
+  command: wget https://github.com/lallianto/asrih447/raw/main/sel.sh
